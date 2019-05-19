@@ -26,3 +26,5 @@ test/**/out*
 
 # example output
 examples/**/out
+
+.nvmrc
