@@ -1,0 +1,29 @@
+{
+  "name": "react-code-samples",
+  "version": "1.0.0",
+  "description": "A slider sample with timer inspired by Airbnb's experiences.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekikara/react-code-samples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nekikara/react-code-samples/issues"
+  },
+  "homepage": "https://github.com/nekikara/react-code-samples#readme",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@zeit/next-typescript": "^1.1.1"
+  }
+}
