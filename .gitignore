@@ -28,4 +28,3 @@ test/**/out*
 examples/**/out
 
 .nvmrc
-out
