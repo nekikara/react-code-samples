@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([["9753"],{We4G:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),u=t.n(a);e.default=function(){return u.a.createElement("div",null,"A")}},cTY3:function(n,e,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/samples/a",function(){var n=t("We4G");return{page:n.default||n}}])}},[["cTY3","5d41","9da1"]]]);
