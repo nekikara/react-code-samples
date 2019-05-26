@@ -13,10 +13,9 @@
     "outDir": "dist",
     "noImplicitReturns": true,
     "noImplicitThis": true,
-    "noImplicitAny": true,
     "strictNullChecks": true,
     "declaration": true,
-    "types": ["storybook__react"]
+    "types": ["storybook__react", "styled-components", "react"]
   },
   "include": [
     "src/**/*"
