@@ -1,10 +1,33 @@
-import { storiesOf } from '@storybook/react';
 import * as React from 'react';
-import Button from "./Button";
+import { storiesOf } from '@storybook/react';
+import styled from "styled-components";
+
+import PlayButton from "./PlayButton";
+import PauseButton from "./PauseButton";
+import LeftArrowButton from "./LeftArrowButton";
+import RightArrowButton from "./RightArrowButton";
+
+const Container = styled.div`
+  width: 100px;
+  height: 100%;
+  background-color: black;
+`;
+
+
 storiesOf("Button", module)
-  .add("with text", () => (
-    <Button>Hello Button</Button>
-  ))
-  .add("with some emoji", () => (
-    <Button>😀 😎 👍 💯</Button>
+  .add("SVGs", () => (
+    <Container>
+      <div>
+        <PlayButton />
+      </div>
+      <div>
+        <PauseButton />
+      </div>
+      <div>
+        <LeftArrowButton />
+      </div>
+      <div>
+        <RightArrowButton />
+      </div>
+    </Container>
   ));
