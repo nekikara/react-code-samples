@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.js": "/main.2ff2f4af0ab52cbbbdbb.bundle.js",
-    "main.js.map": "/main.2ff2f4af0ab52cbbbdbb.bundle.js.map",
-    "runtime~main.js": "/runtime~main.2ff2f4af0ab52cbbbdbb.bundle.js",
-    "runtime~main.js.map": "/runtime~main.2ff2f4af0ab52cbbbdbb.bundle.js.map",
-    "vendors~main.js": "/vendors~main.2ff2f4af0ab52cbbbdbb.bundle.js",
-    "vendors~main.js.map": "/vendors~main.2ff2f4af0ab52cbbbdbb.bundle.js.map",
-    "../.storybook/dist/src/components/Button.d.ts": "/../.storybook/dist/src/components/Button.d.ts",
+    "main.js": "/main.327b6307d351851a7319.bundle.js",
+    "main.js.map": "/main.327b6307d351851a7319.bundle.js.map",
+    "runtime~main.js": "/runtime~main.327b6307d351851a7319.bundle.js",
+    "runtime~main.js.map": "/runtime~main.327b6307d351851a7319.bundle.js.map",
+    "vendors~main.js": "/vendors~main.327b6307d351851a7319.bundle.js",
+    "vendors~main.js.map": "/vendors~main.327b6307d351851a7319.bundle.js.map",
     "../.storybook/dist/src/components/Button.stories.d.ts": "/../.storybook/dist/src/components/Button.stories.d.ts",
+    "../.storybook/dist/src/components/LeftArrowButton.d.ts": "/../.storybook/dist/src/components/LeftArrowButton.d.ts",
+    "../.storybook/dist/src/components/PauseButton.d.ts": "/../.storybook/dist/src/components/PauseButton.d.ts",
+    "../.storybook/dist/src/components/PlayButton.d.ts": "/../.storybook/dist/src/components/PlayButton.d.ts",
+    "../.storybook/dist/src/components/RightArrowButton.d.ts": "/../.storybook/dist/src/components/RightArrowButton.d.ts",
     "iframe.html": "/iframe.html",
-    "precache-manifest.64bc67751b578710903289fd48b8be97.js": "/precache-manifest.64bc67751b578710903289fd48b8be97.js",
+    "precache-manifest.dea6fbeda31f8f847b6b090743619870.js": "/precache-manifest.dea6fbeda31f8f847b6b090743619870.js",
     "service-worker.js": "/service-worker.js"
   }
 }
