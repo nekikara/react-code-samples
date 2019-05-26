@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.js": "/main.327b6307d351851a7319.bundle.js",
-    "main.js.map": "/main.327b6307d351851a7319.bundle.js.map",
-    "runtime~main.js": "/runtime~main.327b6307d351851a7319.bundle.js",
-    "runtime~main.js.map": "/runtime~main.327b6307d351851a7319.bundle.js.map",
-    "vendors~main.js": "/vendors~main.327b6307d351851a7319.bundle.js",
-    "vendors~main.js.map": "/vendors~main.327b6307d351851a7319.bundle.js.map",
-    "../.storybook/dist/src/components/Button.stories.d.ts": "/../.storybook/dist/src/components/Button.stories.d.ts",
+    "main.js": "/main.674b4e03c776d6e9facb.bundle.js",
+    "main.js.map": "/main.674b4e03c776d6e9facb.bundle.js.map",
+    "runtime~main.js": "/runtime~main.674b4e03c776d6e9facb.bundle.js",
+    "runtime~main.js.map": "/runtime~main.674b4e03c776d6e9facb.bundle.js.map",
+    "vendors~main.js": "/vendors~main.674b4e03c776d6e9facb.bundle.js",
+    "vendors~main.js.map": "/vendors~main.674b4e03c776d6e9facb.bundle.js.map",
     "../.storybook/dist/src/components/LeftArrowButton.d.ts": "/../.storybook/dist/src/components/LeftArrowButton.d.ts",
     "../.storybook/dist/src/components/PauseButton.d.ts": "/../.storybook/dist/src/components/PauseButton.d.ts",
     "../.storybook/dist/src/components/PlayButton.d.ts": "/../.storybook/dist/src/components/PlayButton.d.ts",
     "../.storybook/dist/src/components/RightArrowButton.d.ts": "/../.storybook/dist/src/components/RightArrowButton.d.ts",
+    "../.storybook/dist/src/components/slider-with-timer/Card.d.ts": "/../.storybook/dist/src/components/slider-with-timer/Card.d.ts",
+    "../.storybook/dist/src/components/slider-with-timer/Fulfill.d.ts": "/../.storybook/dist/src/components/slider-with-timer/Fulfill.d.ts",
+    "../.storybook/dist/src/components/slider-with-timer/ProgressBar.d.ts": "/../.storybook/dist/src/components/slider-with-timer/ProgressBar.d.ts",
+    "../.storybook/dist/src/components/slider-with-timer/ProgressPlayer.d.ts": "/../.storybook/dist/src/components/slider-with-timer/ProgressPlayer.d.ts",
+    "../.storybook/dist/src/components/slider-with-timer/SlideButtons.d.ts": "/../.storybook/dist/src/components/slider-with-timer/SlideButtons.d.ts",
+    "../.storybook/dist/src/components/slider-with-timer/SliderWithTimer.d.ts": "/../.storybook/dist/src/components/slider-with-timer/SliderWithTimer.d.ts",
+    "../.storybook/dist/src/components/stories/SliderWithTimer.stories.d.ts": "/../.storybook/dist/src/components/stories/SliderWithTimer.stories.d.ts",
+    "../.storybook/dist/src/styles/Colors.d.ts": "/../.storybook/dist/src/styles/Colors.d.ts",
     "iframe.html": "/iframe.html",
-    "precache-manifest.dea6fbeda31f8f847b6b090743619870.js": "/precache-manifest.dea6fbeda31f8f847b6b090743619870.js",
+    "precache-manifest.3d73e8d9e9f210f817196e4e2696b6b0.js": "/precache-manifest.3d73e8d9e9f210f817196e4e2696b6b0.js",
     "service-worker.js": "/service-worker.js"
   }
 }
