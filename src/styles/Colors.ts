@@ -19,6 +19,7 @@ export enum Colors {
   GreyLighten = "#E9EBF2",
   GreyDarken = "#5D6270",
 
-  White = "#fff"
+  White = "#fff",
+  Wall = "#f2f3f4"
 }
 
